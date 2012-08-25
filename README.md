@@ -3,6 +3,11 @@ project-info
 
 Information about the project its history and future
 
+Wiki page collection
+--------------------
+
+The [wiki pages](/json-schema/project-info/wiki/_pages) have information related to all aspects concerning json-schema and we would like to encourage you to participate.
+
 Rough history timeline
 ----------------------
 <table>
